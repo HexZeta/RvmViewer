@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/RvmViewer/CopilotIndices/17.14.670.39694
+/.vs/RvmViewer/FileContentIndex
+/.gitignore
+/.vs/VSWorkspaceState.json
+/obj/Debug/net8.0
+/.vs/RvmViewer/v17
+/RvmViewer.sln
